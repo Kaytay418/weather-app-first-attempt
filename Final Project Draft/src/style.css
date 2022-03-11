@@ -1,0 +1,45 @@
+.container {
+  margin-top: 30px;
+}
+.card {
+  border: white;
+  border-radius: 5px;
+}
+
+.card-header {
+  background: transparent;
+}
+
+.card-body {
+  color: black;
+}
+
+p {
+  font-size: 12px;
+}
+.temperature-card-title {
+  font-size: 14px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.temperature-card-text {
+  font-size: 12px;
+  font-weight: 300;
+  text-align: center;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+.units {
+  position: relative;
+  left: 60px;
+  bottom: 36px;
+  color: black;
+}
+
+a {
+  color: #ffffff;
+}
