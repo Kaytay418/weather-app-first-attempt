@@ -37,10 +37,11 @@ h3 {
   color: #ffffff;
 }
 
-a {
+.openSource {
   color: #ffffff;
-  font-size: 20px;
-  text-decoration: none;
+  text-align: center;
+  margin: 0 auto;
+  padding-top: 15px;
 }
 
 #temperature {
