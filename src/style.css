@@ -40,10 +40,19 @@ h3 {
 .openSource {
   color: #ffffff;
   text-align: center;
-  margin: 0 auto;
-  padding-top: 15px;
+  margin: 275px;
+  background: rgb(0, 0, 0, 0.7);
 }
 
 #temperature {
   font-size: 30px;
+}
+
+a {
+  color: #ffffff;
+}
+
+a:hover {
+  color: #58a6ff;
+  cursor: pointer;
 }
